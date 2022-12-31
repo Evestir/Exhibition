@@ -1,5 +1,5 @@
 # Exhibition
-// A lua scripted theme for 2Take1Menu.
+// A lua-scripted theme for 2Take1Menu.
 // This script was made and brought to you by Vestir#0848
 
 // Instructions
