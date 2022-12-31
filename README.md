@@ -1,6 +1,6 @@
 <p dir="auto"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=Exhibition&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=A%20Lua-Scripted%20Theme%20For%202Take1Menu%20by%20Vestir.#0848&amp;descAlignY=51&amp;descAlign=62" style="max-width: 100%;"></a></p>
 
-<img src="http://cdn.onlinewebfonts.com/svg/img_454927.png", width="100", height="100"/>
+<img src="http://cdn.onlinewebfonts.com/svg/img_454927.png", width="10px", height="10px"/>
 
 
 1. Copy all files in this folder and paste them your 2Take1 menu path.
