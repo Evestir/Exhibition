@@ -10,4 +10,5 @@
 5. You can also make your own background image with the "Background_image_template.psd" file located in your background images folder.
 6. Enjoy!
 
-// DM me if you have a difficulty with using this script.
+
+<h1>Download</h1>
