@@ -1,4 +1,4 @@
-# Exhibition
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Exhibition%20render&fontSize=90)
 // A lua-scripted theme for 2Take1Menu.
 // This script was made and brought to you by Vestir#0848
 
