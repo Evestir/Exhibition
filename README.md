@@ -3,7 +3,7 @@
 
 <h1>Instructions</h1>
 
-1. If your monitor size is 1920x1080 then download the FHD version or if your monitor size if 2560x1440 then download the QHD version. 
+1. If your monitor size is 1920x1080, then download the FHD version or if your monitor size if 2560x1440, then download the QHD version. 
 1. Copy all files in this folder and paste them your 2Take1 menu path. 
 2. Open 2Take1Menu.ini with text editor and change the value of uiPaddingX to 90 and uiPaddingY to 50.
 3. Excute the lua-script file in 2Take1Menu.
