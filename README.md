@@ -9,7 +9,8 @@
 3. Excute the lua-script file in 2Take1Menu.
 4. You can save your current settings at "Settings" and change your current background image at "Background Images".
 5. You can also make your own background image with the "Background_image_template.psd" file located in your background images folder.
-6. Enjoy!
+6. If your game crashes, go to your 2Take1Menu main profile and add this line hints_enable=0 to [FeatureToggle]. Like this: <img src="https://i.imgur.com/s98vKdt.png">
+7. Enjoy!
 
 
 <h1>Download</h1>
