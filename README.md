@@ -14,4 +14,4 @@
 
 
 <h1>Download</h1>
-    <a href="https://github.com/Disguild/Exhibition/releases/tag/0.1" title="Download" rel="nofollow">Click To Download</a>
+    <a href="https://github.com/Evestir/Exhibition/releases/download/v0.2/Exhibition_v0.2.zip" title="Download" rel="nofollow">Click To Download</a>
